@@ -1,0 +1,31 @@
+_repo: GaussEin-Umriss-seines-Lebens-und-Wirkens_42745
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42745-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winnecke, Friedrich August Theodor
+    aliases:
+    - Winnecke, F. August T. (Friedrich August Theodor)
+    - Vinneke, A.
+    - Winnecke, August (Friedrich August Theodor)
+    - Winnecke, A. (Friedrich August Theodor)
+    birthdate: 1835
+    deathdate: 1897
+    gutenberg_agent_id: '41851'
+    url: http://www.gutenberg.org/2009/agents/41851
+description: ''
+gutenberg_issued: '2013-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42745'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Gauss, Carl Friedrich, 1777-1855'
+title: Gauss, ein Umriss seines Lebens und Wirkens
+url: http://www.gutenberg.org/ebooks/42745
